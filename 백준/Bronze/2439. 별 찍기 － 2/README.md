@@ -30,9 +30,7 @@ rjust() 함수는 문자열에 왼쪽 패딩을 추가하는 데 사용
 
 ljust() 함수는 문자열에 오른쪽 패딩을 추가하는 데 사용
 
-ex)
-
-a = "I am legend"
+ex) a = "I am legend"
 
 print(a.rjust(15," "))
 
